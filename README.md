@@ -1,6 +1,6 @@
 # Facial-RecogniZer
 
-install the requirements.txt and then run faceCap.py and cature image
-then faceRec.py to start face detection
+install the requirements and then run faceCap.py and capture image
+then faceRec.py to start face recognition
 
 👍
